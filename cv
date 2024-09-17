@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>سيرتي الذاتية</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1 { color: #333; }
+        p { line-height: 1.6; }
+    </style>
+</head>
+<body>
+    <h1>عبدالله سيد أحمد عبدالله</h1>
+    <p>العنوان: إيتاي البارود، البحيرة</p>
+    <p>الهاتف: 01024840450</p>
+    <p>البريد الإلكتروني: abdullah.okba@gmail.com</p>
+    <h2>المؤهلات التعليمية</h2>
+    <p>بكالوريوس الهندسة الكهربية – جامعة الأزهر (2010)</p>
+    <h2>الخبرات العملية</h2>
+    <p>مدير منطقة الصيانة في Medval Healthcare</p>
+    <!-- يمكنك إضافة المزيد من الأقسام هنا -->
+</body>
+</html>
